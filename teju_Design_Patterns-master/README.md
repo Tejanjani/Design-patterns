@@ -1,2 +1,2 @@
-# kiran_Design_Patterns
+# tejanjani_Design_Patterns
 epam
